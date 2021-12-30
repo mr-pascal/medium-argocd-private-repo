@@ -1,0 +1,4 @@
+namespace: sandbox
+
+service:
+  port: 30002
